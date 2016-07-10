@@ -1,0 +1,53 @@
+status: 200
+content-length: 1403
+expires: Sat, 09 Apr 2016 21:23:51 GMT
+content-location: https://reviews.ubuntu.com/reviews/api/1.0/reviews/filter/en/ubuntu/wily/any/pepperflashplugin-nonfree/page/1/helpful/
+strict-transport-security: max-age=15768000; includeSubDomains; preload
+vary: Accept
+server: gunicorn/19.3.0
+last-modified: Sat, 09 Apr 2016 21:18:51 GMT
+x-bzr-revision-number: 313
+cache-control: max-age=300
+date: Sat, 09 Apr 2016 21:18:51 GMT
+content-type: application/json; charset=utf-8
+
+[
+    {
+        "origin": "ubuntu", 
+        "rating": 5, 
+        "hide": false, 
+        "app_name": "", 
+        "language": "en", 
+        "reviewer_username": "3GmJxYH", 
+        "usefulness_total": 0, 
+        "usefulness_favorable": 0, 
+        "review_text": "It works nicely, just as it does in Firefox", 
+        "date_deleted": null, 
+        "summary": "Perfect!", 
+        "version": "1.7ubuntu1", 
+        "id": 99234, 
+        "date_created": "2016-01-12 16:04:58", 
+        "reviewer_displayname": "Ben", 
+        "package_name": "pepperflashplugin-nonfree", 
+        "distroseries": "wily"
+    }, 
+    {
+        "origin": "ubuntu", 
+        "rating": 1, 
+        "hide": false, 
+        "app_name": "", 
+        "language": "en", 
+        "reviewer_username": "RLrWkzN", 
+        "usefulness_total": 0, 
+        "usefulness_favorable": 0, 
+        "review_text": "i am having a problem after installing.While ussing mozilla firefox i am getting error make sure your system contians \"libpepflashplayer.so\" file.\nI am using ubuntu 15.10 and installed plugins from software centre", 
+        "date_deleted": null, 
+        "summary": "Probelm", 
+        "version": "1.7ubuntu1", 
+        "id": 99530, 
+        "date_created": "2016-02-06 06:03:17", 
+        "reviewer_displayname": "srinath", 
+        "package_name": "pepperflashplugin-nonfree", 
+        "distroseries": "wily"
+    }
+]

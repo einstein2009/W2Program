@@ -1,0 +1,154 @@
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Group Properties error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 0: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 480: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 495: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 503: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 513: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 531: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 543: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 548: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 481: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 482: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 483: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 484: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 485: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 486: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 487: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 488: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 489: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 490: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 491: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 492: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 493: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 494: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Group Properties error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 496: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 497: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 498: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 499: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 500: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 501: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 502: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Group Properties error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 504: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 505: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 506: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 507: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 508: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 509: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 510: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 511: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 512: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Group Properties error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 514: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 515: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 516: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 517: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 518: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 519: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 520: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 521: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 522: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 523: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 524: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 525: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 526: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 527: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 528: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 529: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 530: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Group Properties error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 532: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 533: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 534: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 535: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 536: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 537: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 538: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 539: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 540: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 541: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 542: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Group Properties error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 545: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Group Properties error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 549: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600051
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Getting layout failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3600056
+
+(unity-panel-service:1794): LIBDBUSMENU-GLIB-WARNING **: Getting layout failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/360005B

@@ -1,0 +1,95 @@
+//Week 4 Program: Calculate Federal income tax
+//Nick Ackors
+//4/25/2016
+
+#include <iostream>
+#include <cmath>
+
+using namespace std;
+
+const int SINGLE_TAX_EXEMPTION = 4000;
+const int MARRIED_TAX_EXEMPTION = 7000;
+const int PERSONAL_TAX_EXEMPTION = 1500; 
+
+void taxAmount(double& grossIncome, double& taxDue, double pension, char status, int numOfChild);
+void getData(char& status, int& numOfChild, double& grossIncome, double& pension);
+
+int main()
+{
+	char status;
+	int numOfChild;
+	double grossIncome;
+	double pension;
+	double taxDue;
+	
+	getData(status, numOfChild, grossIncome, pension);
+	
+	cout << "Status = " << status << endl;
+	if (status == 'M', 'm')
+		cout << "Number of children = " << numOfChild << endl;
+		
+	cout << "Gross income = " << grossIncome << endl;
+	cout << "Amount added to pension = " << pension << endl;
+	
+	taxAmount(grossIncome, taxDue, pension, status, numOfChild);
+	
+	cout << "The total amount of taxes due are: " << taxDue << endl;
+	
+	return 0;
+}
+
+void getData(char& status, int& numOfChild, double& grossIncome, double& pension)
+{
+	
+	cout << "Enter marital status (M,S): ";
+	cin  >> status;
+	cout << endl;
+	
+	if (status == 'M', 'm')
+	{
+		cout << "Enter number of children under 14: ";
+		cin  >> numOfChild;
+		cout << "Enter combined gross income: ";
+		cin  >> grossIncome;
+		cout << endl;
+		
+		cout << "Enter percent of gross income saved in a pension plan: ";
+		cin  >> pension;
+		if (pension >= 12)
+			cout << "Cannot enter more than 12% into a pension plan when status = m" << endl;
+		pension = grossIncome * (pension / 100);
+		cout << endl;
+		}
+	else if (status == 'S', 's')
+	{
+		cout << "Enter gross income: ";
+		cin  >> grossIncome;
+		cout << endl;
+		
+		cout << "Enter percent of gross income saved in a pension plan: ";
+		cin  >> pension;
+		if (pension > 6)
+			cout << "Cannot enter more than 6% of total income into a pension plan." << endl;
+		pension = grossIncome * (pension / 100);
+		cout << endl;
+	}
+	else
+		cout << "Invalid entry";
+}
+
+void taxAmount(double& grossIncome, double& taxDue, double pension, char status, int numOfChild)
+{
+	double taxable;
+	
+	if (status == 'M', 'm')
+		taxable = grossIncome - (MARRIED_TAX_EXEMPTION + pension + 2 * PERSONAL_TAX_EXEMPTION + PERSONAL_TAX_EXEMPTION * numOfChild);
+	else
+		taxable = grossIncome - (SINGLE_TAX_EXEMPTION + pension + PERSONAL_TAX_EXEMPTION);
+	
+	if (taxable >= 0 && taxable <= 15000)
+		taxDue = taxable * .15;
+	else if (taxable >= 15001 && taxable <= 40000)
+		taxDue = ((taxable - 15000) * .25) + 2250;
+	else
+		taxDue = ((taxable - 40000) * .35) + 8460;
+}

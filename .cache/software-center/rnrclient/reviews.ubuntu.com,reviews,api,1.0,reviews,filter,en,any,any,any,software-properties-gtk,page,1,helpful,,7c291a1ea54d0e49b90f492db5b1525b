@@ -1,0 +1,148 @@
+status: 200
+content-length: 4807
+expires: Sat, 09 Apr 2016 21:25:39 GMT
+content-location: https://reviews.ubuntu.com/reviews/api/1.0/reviews/filter/en/any/any/any/software-properties-gtk/page/1/helpful/
+strict-transport-security: max-age=15768000; includeSubDomains; preload
+vary: Accept
+server: gunicorn/19.3.0
+last-modified: Sat, 09 Apr 2016 21:20:39 GMT
+x-bzr-revision-number: 313
+cache-control: max-age=300
+date: Sat, 09 Apr 2016 21:20:39 GMT
+content-type: application/json; charset=utf-8
+
+[
+    {
+        "origin": "ubuntu", 
+        "rating": 5, 
+        "hide": false, 
+        "app_name": "Software & Updates", 
+        "language": "en", 
+        "reviewer_username": "4wytQ7C", 
+        "usefulness_total": 0, 
+        "usefulness_favorable": 0, 
+        "review_text": "Just want to say Thank You! Makes updates easy, installs a breeze, deleting simple... What else can you say. Great work.", 
+        "date_deleted": null, 
+        "summary": "Simple and Easy", 
+        "version": "0.92.37.2", 
+        "id": 93910, 
+        "date_created": "2015-01-25 16:07:28", 
+        "reviewer_displayname": "George", 
+        "package_name": "software-properties-gtk", 
+        "distroseries": "trusty"
+    }, 
+    {
+        "origin": "ubuntu", 
+        "rating": 5, 
+        "hide": false, 
+        "app_name": "Software & Updates", 
+        "language": "en", 
+        "reviewer_username": "soibelrs", 
+        "usefulness_total": 0, 
+        "usefulness_favorable": 0, 
+        "review_text": "I have the same on Windows 7 Portable. I like to press one buttom and get all that stuff updated without having to worry about all that.", 
+        "date_deleted": null, 
+        "summary": "Yeah, makes my life easier", 
+        "version": "0.92.17", 
+        "id": 71448, 
+        "date_created": "2013-05-01 15:31:55", 
+        "reviewer_displayname": "Raoul Soibelmann", 
+        "package_name": "software-properties-gtk", 
+        "distroseries": "raring"
+    }, 
+    {
+        "origin": "ubuntu", 
+        "rating": 4, 
+        "hide": false, 
+        "app_name": "Software Sources", 
+        "language": "en", 
+        "reviewer_username": "g55c-ndriau-bb4k", 
+        "usefulness_total": 0, 
+        "usefulness_favorable": 0, 
+        "review_text": "It does the job it is intended to to.\nOn the other hand there's little help between the lines.", 
+        "date_deleted": null, 
+        "summary": "Pretty good!", 
+        "version": "0.92.9", 
+        "id": 60487, 
+        "date_created": "2012-11-04 11:46:53", 
+        "reviewer_displayname": "Adrian", 
+        "package_name": "software-properties-gtk", 
+        "distroseries": "quantal"
+    }, 
+    {
+        "origin": "ubuntu", 
+        "rating": 4, 
+        "hide": false, 
+        "app_name": "Software Sources", 
+        "language": "en", 
+        "reviewer_username": "corphicks", 
+        "usefulness_total": 4, 
+        "usefulness_favorable": 0, 
+        "review_text": "Does what it says. Managing install CDs was not really solved in the past.", 
+        "date_deleted": null, 
+        "summary": "Does what it says.", 
+        "version": "0.82.7.1", 
+        "id": 47094, 
+        "date_created": "2012-05-17 05:50:00", 
+        "reviewer_displayname": "Csipak Attila", 
+        "package_name": "software-properties-gtk", 
+        "distroseries": "precise"
+    }, 
+    {
+        "origin": "ubuntu", 
+        "rating": 4, 
+        "hide": false, 
+        "app_name": "Software Sources", 
+        "language": "en", 
+        "reviewer_username": "BTNPB68", 
+        "usefulness_total": 2, 
+        "usefulness_favorable": 1, 
+        "review_text": "very good", 
+        "date_deleted": null, 
+        "summary": "very good", 
+        "version": "0.80.9", 
+        "id": 14061, 
+        "date_created": "2011-06-29 03:36:17", 
+        "reviewer_displayname": "mrchristmas-hk", 
+        "package_name": "software-properties-gtk", 
+        "distroseries": "natty"
+    }, 
+    {
+        "origin": "ubuntu", 
+        "rating": 5, 
+        "hide": false, 
+        "app_name": "Software Sources", 
+        "language": "en", 
+        "reviewer_username": "Yr4EdQA", 
+        "usefulness_total": 0, 
+        "usefulness_favorable": 0, 
+        "review_text": "I Love using this software. Since most of the installation of packages happen through REPO's, this software makes it dumb-proof in handling those operations. Great tool for Ubuntu!", 
+        "date_deleted": null, 
+        "summary": "Love it!", 
+        "version": "0.80.9", 
+        "id": 12024, 
+        "date_created": "2011-06-12 02:04:34", 
+        "reviewer_displayname": "Aeraj Rehman", 
+        "package_name": "software-properties-gtk", 
+        "distroseries": "natty"
+    }, 
+    {
+        "origin": "ubuntu", 
+        "rating": 3, 
+        "hide": false, 
+        "app_name": "Software Sources", 
+        "language": "en", 
+        "reviewer_username": "step21", 
+        "usefulness_total": 3, 
+        "usefulness_favorable": 0, 
+        "review_text": "Functional\n", 
+        "date_deleted": null, 
+        "summary": "3/5", 
+        "version": "0.80.9", 
+        "id": 7324, 
+        "date_created": "2011-05-14 19:05:11", 
+        "reviewer_displayname": "step21", 
+        "package_name": "software-properties-gtk", 
+        "distroseries": "natty"
+    }
+]

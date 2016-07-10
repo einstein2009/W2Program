@@ -1,0 +1,97 @@
+//define an enum type birdType, with the values PEACOCK, SPARROW, CANARY, PARROT, PENGUIN, OSTRICH, EAGLE, CARDINAL, and HUMMINGBIRD
+//declare a variable bird of the type birdType.
+//assign CANARY to the variable bird.
+//advance bird to the next value in the list.
+//decrement bird to the previous value in the list.
+//output the value of the variable bird.
+//input value in the variable bird
+
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+enum birdType {PEACOCK, SPARROW, CANARY, PARROT, PENGUIN, OSTRICH, EAGLE, CARDINAL, HUMMINGBIRD} bird;
+
+void birdOutput(enum birdType);
+void birdInput(enum birdType);
+	
+int main()
+{
+	bird = CANARY;
+	
+	bird = static_cast<birdType>(static_cast<int> (bird) + 2);
+	bird = static_cast<birdType>(static_cast<int> (bird) - 1);
+	
+	cout << "Bird is currently: " << endl;
+	birdOutput(bird);
+	
+	cout << "What is the preferred bird?" << endl;
+	birdInput(bird);
+	
+	cout << "Bird is currently: " << endl;
+	birdOutput(bird);
+	
+	return 0;
+	
+}	
+void birdOutput(enum birdType)
+{
+	switch (bird)
+	{
+	case PEACOCK:
+		cout << "Peacock" << endl;
+		break;
+	case SPARROW:
+		cout << "Sparrow" << endl;
+		break;
+	case CANARY:
+		cout << "Canary" << endl;
+		break;
+	case PARROT:
+		cout << "Parrot" << endl;
+		break;
+	case PENGUIN:
+		cout << "Penguin" << endl;
+		break;
+	case OSTRICH:
+		cout << "Ostrich" << endl;
+		break;
+	case EAGLE:
+		cout << "Eagle" << endl;
+		break;
+	case CARDINAL:
+		cout << "Cardinal" << endl;
+		break;
+	case HUMMINGBIRD:
+		cout << "Hummingbird" << endl;
+		break;
+	}
+}
+
+void birdInput(enum birdType)
+{
+	string birdInput;
+	cin >> birdInput;
+	
+	if (birdInput == "Peacock")
+		bird = PEACOCK;
+	else if (birdInput == "Sparrow")
+		bird = SPARROW;
+	else if (birdInput == "Canary")
+		bird = CANARY;
+	else if (birdInput == "Parrot")
+		bird = PARROT;
+	else if (birdInput == "Penguin")
+		bird = PENGUIN;
+	else if (birdInput == "Ostrich")
+		bird = OSTRICH;
+	else if (birdInput == "Eagle")
+		bird = EAGLE;
+	else if (birdInput == "Cardinal")
+		bird = CARDINAL;
+	else if (birdInput == "Hummingbird")
+		bird = HUMMINGBIRD;
+	else
+		cout << "Bird not recognized" << endl;
+}

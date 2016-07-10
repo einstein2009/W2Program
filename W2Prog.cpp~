@@ -1,0 +1,21 @@
+#include <iostream>
+#include <cmath>
+
+using namespace std;
+
+int main()
+{
+
+	double sideA, sideB, sideC;
+	
+	cout << "Enter three sides of a triangle starting with the largest side: " << endl;
+	cin >> sideA >> sideB >> sideC;
+	cout << endl;
+	
+	if (pow(sideA, 2) == pow(sideB, 2) + pow(sideC, 2))
+		cout << "The triangle is a right triangle.";
+	else
+		cout << "The triangle is not a right triangle.";
+
+return 0;
+}

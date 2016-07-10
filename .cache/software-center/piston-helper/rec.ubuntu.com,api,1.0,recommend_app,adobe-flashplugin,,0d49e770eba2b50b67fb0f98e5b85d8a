@@ -1,0 +1,295 @@
+status: 200
+content-length: 6791
+via: 1.1 papeda.canonical.com:3128 (squid/2.7.STABLE7)
+content-location: https://rec.ubuntu.com/api/1.0/recommend_app/adobe-flashplugin/
+x-cache: HIT from papeda.canonical.com
+age: 52
+expires: Sat, 09 Apr 2016 21:28:37 GMT
+server: Apache
+last-modified: Sat, 09 Apr 2016 21:23:37 GMT
+etag: "f5cd036b220b633e4ee6fca74385c5b4"
+strict-transport-security: max-age=2592000
+cache-control: max-age=300
+date: Sat, 09 Apr 2016 21:23:37 GMT
+content-type: application/json; charset=utf-8
+x-cache-lookup: HIT from papeda.canonical.com:3128
+
+{
+    "rid": "05ac01f2d3b800703907fbdfb34dde52", 
+    "data": [
+        {
+            "package_name": "adobe-flash-properties-gtk", 
+            "similarity": 0.6667
+        }, 
+        {
+            "package_name": "fonts-hosny-amiri", 
+            "similarity": 0.25
+        }, 
+        {
+            "package_name": "dict", 
+            "similarity": 0.25
+        }, 
+        {
+            "package_name": "phonon", 
+            "similarity": 0.2222
+        }, 
+        {
+            "package_name": "mplayer2", 
+            "similarity": 0.2
+        }, 
+        {
+            "package_name": "mesa-utils", 
+            "similarity": 0.2
+        }, 
+        {
+            "package_name": "dialog", 
+            "similarity": 0.2
+        }, 
+        {
+            "package_name": "unity-2d-places", 
+            "similarity": 0.1667
+        }, 
+        {
+            "package_name": "unity-2d-launcher", 
+            "similarity": 0.1667
+        }, 
+        {
+            "package_name": "ttf-mscorefonts-installer", 
+            "similarity": 0.1538
+        }, 
+        {
+            "package_name": "p7zip-rar", 
+            "similarity": 0.1429
+        }, 
+        {
+            "package_name": "language-pack-zh-hans-base", 
+            "similarity": 0.1111
+        }, 
+        {
+            "package_name": "ecryptfs-utils", 
+            "similarity": 0.1
+        }, 
+        {
+            "package_name": "unrar", 
+            "similarity": 0.0769
+        }, 
+        {
+            "package_name": "icedtea-netx", 
+            "similarity": 0.0588
+        }, 
+        {
+            "package_name": "ubuntu-restricted-addons", 
+            "similarity": 0.0571
+        }, 
+        {
+            "package_name": "libdvdread4", 
+            "similarity": 0.0444
+        }, 
+        {
+            "package_name": "remmina", 
+            "similarity": 0.037
+        }, 
+        {
+            "package_name": "ubuntu-desktop", 
+            "similarity": 0.0312
+        }, 
+        {
+            "package_name": "ubuntuone-control-panel-gtk", 
+            "similarity": 0.0308
+        }, 
+        {
+            "package_name": "thunderbird-globalmenu", 
+            "similarity": 0.0308
+        }, 
+        {
+            "package_name": "indicator-appmenu", 
+            "similarity": 0.0308
+        }, 
+        {
+            "package_name": "firefox-globalmenu", 
+            "similarity": 0.0308
+        }, 
+        {
+            "package_name": "appmenu-qt", 
+            "similarity": 0.0308
+        }, 
+        {
+            "package_name": "zip", 
+            "similarity": 0.0303
+        }, 
+        {
+            "package_name": "zeitgeist", 
+            "similarity": 0.0303
+        }, 
+        {
+            "package_name": "xserver-xorg-video-radeon", 
+            "similarity": 0.0303
+        }, 
+        {
+            "package_name": "xserver-xorg-video-openchrome", 
+            "similarity": 0.0303
+        }, 
+        {
+            "package_name": "xserver-xorg-video-nouveau", 
+            "similarity": 0.0303
+        }, 
+        {
+            "package_name": "xcursor-themes", 
+            "similarity": 0.0303
+        }, 
+        {
+            "package_name": "x11-utils", 
+            "similarity": 0.0303
+        }, 
+        {
+            "package_name": "util-linux", 
+            "similarity": 0.0303
+        }, 
+        {
+            "package_name": "unity-lens-files", 
+            "similarity": 0.0303
+        }, 
+        {
+            "rating": 3.0, 
+            "package_name": "unity", 
+            "similarity": 0.0303
+        }, 
+        {
+            "package_name": "ttf-wqy-microhei", 
+            "similarity": 0.0303
+        }, 
+        {
+            "package_name": "ttf-ubuntu-font-family", 
+            "similarity": 0.0303
+        }, 
+        {
+            "package_name": "sudo", 
+            "similarity": 0.0303
+        }, 
+        {
+            "package_name": "rsync", 
+            "similarity": 0.0303
+        }, 
+        {
+            "package_name": "rhythmbox-data", 
+            "similarity": 0.0303
+        }, 
+        {
+            "package_name": "python", 
+            "similarity": 0.0303
+        }, 
+        {
+            "package_name": "pulseaudio", 
+            "similarity": 0.0303
+        }, 
+        {
+            "package_name": "plymouth", 
+            "similarity": 0.0303
+        }, 
+        {
+            "package_name": "perl", 
+            "similarity": 0.0303
+        }, 
+        {
+            "package_name": "nano", 
+            "similarity": 0.0303
+        }, 
+        {
+            "package_name": "make", 
+            "similarity": 0.0303
+        }, 
+        {
+            "package_name": "linux-libc-dev", 
+            "similarity": 0.0303
+        }, 
+        {
+            "package_name": "light-themes", 
+            "similarity": 0.0303
+        }, 
+        {
+            "package_name": "libxcursor1", 
+            "similarity": 0.0303
+        }, 
+        {
+            "package_name": "libdrm2", 
+            "similarity": 0.0303
+        }, 
+        {
+            "package_name": "indicator-sound", 
+            "similarity": 0.0303
+        }, 
+        {
+            "rating": 4.0, 
+            "package_name": "driconf"
+        }, 
+        {
+            "rating": 4.0, 
+            "package_name": "gftp-gtk"
+        }, 
+        {
+            "rating": 4.0, 
+            "package_name": "nautilus-wallpaper"
+        }, 
+        {
+            "rating": 4.0, 
+            "package_name": "twitux"
+        }, 
+        {
+            "rating": 4.0, 
+            "package_name": "btnx-config"
+        }, 
+        {
+            "rating": 4.0, 
+            "package_name": "literki"
+        }, 
+        {
+            "rating": 4.0, 
+            "package_name": "gnome-photo-printer"
+        }, 
+        {
+            "rating": 4.0, 
+            "package_name": "pyscrabble"
+        }, 
+        {
+            "rating": 4.0, 
+            "package_name": "photoprint"
+        }, 
+        {
+            "rating": 4.0, 
+            "package_name": "cryptkeeper"
+        }, 
+        {
+            "rating": 4.0, 
+            "package_name": "wakeup"
+        }, 
+        {
+            "rating": 4.0, 
+            "package_name": "hplip-gui"
+        }, 
+        {
+            "rating": 4.0, 
+            "package_name": "arista"
+        }, 
+        {
+            "rating": 3.0, 
+            "package_name": "gcrystal"
+        }, 
+        {
+            "rating": 3.0, 
+            "package_name": "salasaga"
+        }, 
+        {
+            "rating": 3.0, 
+            "package_name": "camera.app"
+        }, 
+        {
+            "rating": 3.0, 
+            "package_name": "xgnokii"
+        }, 
+        {
+            "rating": 3.0, 
+            "package_name": "pychess"
+        }
+    ], 
+    "app": "adobe-flashplugin"
+}

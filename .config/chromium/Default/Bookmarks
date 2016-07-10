@@ -1,0 +1,166 @@
+{
+   "checksum": "705cb5bd246a83c704e624caaf1663d9",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13091679998187424",
+            "id": "6",
+            "meta_info": {
+               "stars.id": "ssc_eba2484e5c2182bd",
+               "stars.isSynced": "true"
+            },
+            "name": "Welcome to Baker College – Blackboard Learn",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://ol.baker.edu/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_13_1"
+         }, {
+            "date_added": "13104027102176927",
+            "id": "7",
+            "name": "Wolfram|Alpha: Computational Knowledge Engine",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.wolframalpha.com/"
+         }, {
+            "date_added": "13077086879173000",
+            "id": "8",
+            "meta_info": {
+               "stars.id": "c_8dv0ia4sygr4",
+               "stars.isSynced": "true",
+               "stars.note": "",
+               "stars.pageData": "Ig5ndkdfN2NKLWk0OTA3TQ==",
+               "stars.type": "2"
+            },
+            "name": "Imgur",
+            "sync_transaction_version": "5",
+            "type": "url",
+            "url": "http://imgur.com/"
+         }, {
+            "date_added": "13090882972647048",
+            "id": "9",
+            "meta_info": {
+               "stars.id": "ssc_c7263d394942bb37",
+               "stars.version": "sync.server.Chrome46"
+            },
+            "name": "Bungie",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.bungie.net/"
+         }, {
+            "date_added": "13091409070739875",
+            "id": "10",
+            "meta_info": {
+               "stars.id": "ssc_6a8da9d4afbebd00",
+               "stars.version": "sync.server.Chrome46"
+            },
+            "name": "reddit: the front page of the internet",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.reddit.com/"
+         }, {
+            "date_added": "12997147708712237",
+            "id": "11",
+            "meta_info": {
+               "stars.id": "ssc_33e14095aee134aa",
+               "stars.version": "sync.server.Chrome46"
+            },
+            "name": "Speedtest.net - The Global Broadband Speed Test",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://speedtest.net/"
+         }, {
+            "date_added": "13046914497468570",
+            "id": "12",
+            "meta_info": {
+               "stars.id": "ssc_ba5b777a30a231c2",
+               "stars.imageData": "Cg5TNWdjX1ZuR2s3S2RFTRI7CjNodHRwczovL3MueWltZy5jb20vZGgvYXAvZGVmYXVsdC8xMzA5MDkveV8yMDBfYS5wbmcQoAEYoAEaYwpbaHR0cDovL3QzLmdzdGF0aWMuY29tL2ltYWdlcz9xPXRibjpBTmQ5R2NUWkRweVEwUzRqUUpvQmRMSFVnQi12Y3dpUzlkV3dxTVhPTG9aejdfd29PNjcwZFJvRBCgARigASIQCAEQoAEYoAFCBhIEkv9+/yiwwfyegMnFAg==",
+               "stars.isSynced": "true",
+               "stars.pageData": "Ep0BQSBuZXcgd2VsY29tZSB0byBZYWhvby4gVGhlIG5ldyBZYWhvbyBleHBlcmllbmNlIG1ha2VzIGl0IGVhc2llciB0byBkaXNjb3ZlciB0aGUgbmV3cyBhbmQgaW5mb3JtYXRpb24gdGhhdCB5b3UgY2FyZSBhYm91dCBtb3N0LiBJdCdzIHRoZSB3ZWIgb3JkZXJlZCBmb3IgeW91LiIOSjJ5WlJ3ZGZBd3k2ZU0="
+            },
+            "name": "Yahoo",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.yahoo.com/"
+         }, {
+            "date_added": "12944621977753508",
+            "id": "13",
+            "meta_info": {
+               "stars.id": "ssc_1e17329750cbf26b",
+               "stars.imageData": "Cg4yY3JuT0xZYzNWcFZ0TRI3Ci9odHRwOi8vaS55dGltZy5jb20vdmkvUDktRkNDNkk3dTAvaHFkZWZhdWx0LmpwZxCDAhjCARpjCltodHRwOi8vdDEuZ3N0YXRpYy5jb20vaW1hZ2VzP3E9dGJuOkFOZDlHY1JsX3RKLXZneDZFQkhTb3VaTnR1LVhyeFFJa2kyUUhtYmIyTHpGWVpTLUtMSkJMRFZSEIMCGMIBIhAIARCDAhjCAUIGEgQALX19KPqcltugvcUC",
+               "stars.pageData": "Ig52elA2d3ViUVdKcjd1TQ==",
+               "stars.version": "sync.server.Chrome46"
+            },
+            "name": "YouTube - Broadcast Yourself.",
+            "sync_transaction_version": "4",
+            "type": "url",
+            "url": "http://www.youtube.com/"
+         }, {
+            "date_added": "13046970752055000",
+            "id": "14",
+            "meta_info": {
+               "stars.id": "ssc_4b4fd3be038a6933",
+               "stars.imageData": "Cg5iTGZQUFFQcldYcjVHTRI3Ci9odHRwOi8vY2RuNy5uZmx4aW1nLm5ldC9pbWFnZXMvNzcxNy85OTY3NzE3LmpwZxCmARjpARpjCltodHRwOi8vdDAuZ3N0YXRpYy5jb20vaW1hZ2VzP3E9dGJuOkFOZDlHY1M5RHkyVldOeUx5cmdfa1lWYk1fSmlVQ1hwLWZvOENpdjhfaGtfWU1HZG5FbFVIQXRuEIQBGLoBIhAIARCEARi6AUIGEgQADXlaKPy9w7GkucUC",
+               "stars.pageData": "Ig5HVzZUVVF2eXZiODhjTQ==",
+               "stars.type": "2",
+               "stars.version": "sync.server.Chrome46"
+            },
+            "name": "Netflix",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.netflix.com/ProfilesGate?nextpage=http%3A%2F%2Fwww.netflix.com%2FDefault"
+         }, {
+            "date_added": "13046914413395546",
+            "id": "15",
+            "name": "U.S. Bank Online Banking - Personal Banking | Loans and Credit | Investing and Wealth",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.usbank.com/index.html"
+         }, {
+            "date_added": "13046914526381570",
+            "id": "16",
+            "meta_info": {
+               "stars.id": "ssc_ddb1f482493a5cd6",
+               "stars.version": "sync.server.Chrome46"
+            },
+            "name": "Official Minecraft Wiki - The ultimate resource for all things Minecraft",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://minecraft.gamepedia.com/Minecraft_Wiki"
+         }, {
+            "date_added": "13090996723460069",
+            "id": "17",
+            "meta_info": {
+               "stars.flags": "5",
+               "stars.id": "ssc_ca3f2827140b366f",
+               "stars.version": "sync.server.Chrome46"
+            },
+            "name": "Notebook - The best gaming notebook provider",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.msi.com/product/notebook/support/GS60-2PC-Ghost.html#down-driver&null"
+         } ],
+         "date_added": "13104211696271764",
+         "date_modified": "13104773415230317",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13104211696271775",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "5",
+      "synced": {
+         "children": [  ],
+         "date_added": "13104211696271776",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

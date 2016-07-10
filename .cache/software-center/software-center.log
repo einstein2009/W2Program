@@ -1,0 +1,88 @@
+2016-04-03 20:30:21,603 - softwarecenter.backend.zeitgeist_logger - WARNING - Support for Zeitgeist disabled
+2016-04-03 20:30:21,627 - softwarecenter.ui.gtk3.app - INFO - setting up proxy 'None'
+2016-04-03 20:30:21,631 - softwarecenter.db.database - ERROR - failed to add apt-xapian-index
+Traceback (most recent call last):
+  File "/usr/share/software-center/softwarecenter/db/database.py", line 194, in _get_new_xapiandb
+    softwarecenter.paths.APT_XAPIAN_INDEX_DB_PATH)
+  File "/usr/lib/python2.7/dist-packages/xapian/__init__.py", line 3667, in __init__
+    _xapian.Database_swiginit(self,_xapian.new_Database(*args))
+DatabaseOpeningError: Couldn't stat '/var/lib/apt-xapian-index/index' (No such file or directory)
+2016-04-03 20:30:22,242 - softwarecenter.region - WARNING - failed to use geoclue: 'org.freedesktop.Geoclue.Error.notAvailable: Geoclue master client has no usable Address providers'
+2016-04-03 20:30:22,277 - softwarecenter.backend.reviews - WARNING - Could not get usefulness from server, no username in config file
+2016-04-03 20:30:22,278 - softwarecenter.plugin - INFO - activating plugin '<module 'webapps_activation' from '/usr/share/software-center/softwarecenter/plugins/webapps_activation.pyc'>'
+2016-04-03 20:30:22,308 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2016-04-03 20:30:27,719 - softwarecenter.db.utils - INFO - software-center-agent finished with status 0
+2016-04-03 20:30:27,720 - softwarecenter.db.database - ERROR - failed to add apt-xapian-index
+Traceback (most recent call last):
+  File "/usr/share/software-center/softwarecenter/db/database.py", line 194, in _get_new_xapiandb
+    softwarecenter.paths.APT_XAPIAN_INDEX_DB_PATH)
+  File "/usr/lib/python2.7/dist-packages/xapian/__init__.py", line 3667, in __init__
+    _xapian.Database_swiginit(self,_xapian.new_Database(*args))
+DatabaseOpeningError: Couldn't stat '/var/lib/apt-xapian-index/index' (No such file or directory)
+2016-04-03 20:30:27,741 - softwarecenter.db.database - ERROR - failed to add apt-xapian-index
+Traceback (most recent call last):
+  File "/usr/share/software-center/softwarecenter/db/database.py", line 194, in _get_new_xapiandb
+    softwarecenter.paths.APT_XAPIAN_INDEX_DB_PATH)
+  File "/usr/lib/python2.7/dist-packages/xapian/__init__.py", line 3667, in __init__
+    _xapian.Database_swiginit(self,_xapian.new_Database(*args))
+DatabaseOpeningError: Couldn't stat '/var/lib/apt-xapian-index/index' (No such file or directory)
+2016-04-09 13:08:23,418 - softwarecenter.backend.zeitgeist_logger - WARNING - Support for Zeitgeist disabled
+2016-04-09 13:08:23,442 - softwarecenter.ui.gtk3.app - INFO - setting up proxy 'None'
+2016-04-09 13:08:23,547 - softwarecenter.region - WARNING - failed to use geoclue: 'org.freedesktop.Geoclue.Error.notAvailable: Geoclue master client has no usable Address providers'
+2016-04-09 13:08:23,704 - softwarecenter.backend.reviews - WARNING - Could not get usefulness from server, no username in config file
+2016-04-09 13:08:23,706 - softwarecenter.plugin - INFO - activating plugin '<module 'webapps_activation' from '/usr/share/software-center/softwarecenter/plugins/webapps_activation.pyc'>'
+2016-04-09 13:08:23,736 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2016-04-09 13:08:27,676 - softwarecenter.db.utils - INFO - software-center-agent finished with status 0
+2016-04-09 15:50:44,747 - softwarecenter.backend.zeitgeist_logger - WARNING - Support for Zeitgeist disabled
+2016-04-09 15:50:44,772 - softwarecenter.ui.gtk3.app - INFO - setting up proxy 'None'
+2016-04-09 15:50:45,287 - softwarecenter.region - WARNING - failed to use geoclue: 'org.freedesktop.Geoclue.Error.notAvailable: Geoclue master client has no usable Address providers'
+2016-04-09 15:50:45,447 - softwarecenter.backend.reviews - WARNING - Could not get usefulness from server, no username in config file
+2016-04-09 15:50:45,449 - softwarecenter.plugin - INFO - activating plugin '<module 'webapps_activation' from '/usr/share/software-center/softwarecenter/plugins/webapps_activation.pyc'>'
+2016-04-09 15:50:45,479 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2016-04-09 15:50:49,566 - softwarecenter.db.utils - INFO - software-center-agent finished with status 0
+2016-04-09 15:50:53,689 - softwarecenter.backend - WARNING - _on_trans_error: 'NotAuthorizedError(u"('system-bus-name', {'name':  ':1.113'}): org.debian.apt.install-or-remove-packages",)' '<AptTransaction object at 0x7fc25d09a460 (aptdaemon+client+AptTransaction at 0x35a0720)>' 'adobe-flashplugin'
+2016-04-09 15:50:53,694 - softwarecenter.backend - ERROR - error in _on_trans_finished 'Error: You are not allowed to perform this action
+You don't have the required privileges to perform this action.
+
+org.freedesktop.PolicyKit.Error.NotAuthorized: ('system-bus-name', {'name': ':1.113'}): org.debian.apt.install-or-remove-packages'
+2016-04-09 15:50:55,425 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2016-04-09 15:51:59,423 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2016-04-09 15:51:59,776 - softwarecenter.utils - WARNING - Could not determine the installed desktop file path for app-install desktop file: 'None'
+2016-04-09 15:51:59,776 - softwarecenter.backend.zeitgeist_logger - WARNING - No zeitgeist support, impossible to log event
+2016-04-09 16:13:41,973 - softwarecenter.utils - WARNING - Could not determine the installed desktop file path for app-install desktop file: 'None'
+2016-04-09 16:13:43,025 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2016-04-09 16:13:43,343 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2016-04-09 16:13:43,703 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2016-04-09 16:13:44,090 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2016-04-09 16:13:44,482 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2016-04-09 16:13:44,889 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2016-04-09 16:17:44,978 - softwarecenter.backend.zeitgeist_logger - WARNING - Support for Zeitgeist disabled
+2016-04-09 16:17:44,998 - softwarecenter.ui.gtk3.app - INFO - setting up proxy 'None'
+2016-04-09 16:17:45,293 - softwarecenter.backend.reviews - WARNING - Could not get usefulness from server, no username in config file
+2016-04-09 16:17:45,294 - softwarecenter.plugin - INFO - activating plugin '<module 'webapps_activation' from '/usr/share/software-center/softwarecenter/plugins/webapps_activation.pyc'>'
+2016-04-09 16:17:45,314 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2016-04-09 16:17:49,395 - softwarecenter.db.utils - INFO - software-center-agent finished with status 0
+2016-04-09 16:20:13,852 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2016-04-09 16:20:14,152 - softwarecenter.backend.zeitgeist_logger - WARNING - No zeitgeist support, impossible to log event
+2016-04-09 16:24:26,772 - softwarecenter.backend.zeitgeist_logger - WARNING - Support for Zeitgeist disabled
+2016-04-09 16:24:26,794 - softwarecenter.ui.gtk3.app - INFO - setting up proxy 'None'
+2016-04-09 16:24:27,093 - softwarecenter.backend.reviews - WARNING - Could not get usefulness from server, no username in config file
+2016-04-09 16:24:27,094 - softwarecenter.plugin - INFO - activating plugin '<module 'webapps_activation' from '/usr/share/software-center/softwarecenter/plugins/webapps_activation.pyc'>'
+2016-04-09 16:24:27,113 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2016-04-09 16:24:31,144 - softwarecenter.db.utils - INFO - software-center-agent finished with status 0
+2016-04-09 16:25:08,475 - softwarecenter.backend.zeitgeist_logger - WARNING - Support for Zeitgeist disabled
+2016-04-09 16:25:08,490 - softwarecenter.ui.gtk3.app - INFO - found a running software-center on dbus, reconnecting
+2016-04-15 18:44:59,739 - softwarecenter.backend.zeitgeist_logger - WARNING - Support for Zeitgeist disabled
+2016-04-15 18:44:59,764 - softwarecenter.ui.gtk3.app - INFO - setting up proxy 'None'
+2016-04-15 18:45:00,268 - softwarecenter.region - WARNING - failed to use geoclue: 'org.freedesktop.Geoclue.Error.notAvailable: Geoclue master client has no usable Address providers'
+2016-04-15 18:45:00,424 - softwarecenter.backend.reviews - WARNING - Could not get usefulness from server, no username in config file
+2016-04-15 18:45:00,426 - softwarecenter.plugin - INFO - activating plugin '<module 'webapps_activation' from '/usr/share/software-center/softwarecenter/plugins/webapps_activation.pyc'>'
+2016-04-15 18:45:00,458 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2016-04-24 17:25:33,668 - softwarecenter.backend.zeitgeist_logger - WARNING - Support for Zeitgeist disabled
+2016-04-24 17:25:33,693 - softwarecenter.ui.gtk3.app - INFO - setting up proxy 'None'
+2016-04-24 17:25:34,220 - softwarecenter.region - WARNING - failed to use geoclue: 'org.freedesktop.Geoclue.Error.notAvailable: Geoclue master client has no usable Address providers'
+2016-04-24 17:25:34,418 - softwarecenter.backend.reviews - WARNING - Could not get usefulness from server, no username in config file
+2016-04-24 17:25:34,419 - softwarecenter.plugin - INFO - activating plugin '<module 'webapps_activation' from '/usr/share/software-center/softwarecenter/plugins/webapps_activation.pyc'>'
+2016-04-24 17:25:34,458 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2016-05-03 21:14:12,453 - softwarecenter.db.update - WARNING - failed to load file /var/lib/apt-xapian-index/cataloged_times.p: unsupported pickle protocol: 3
+2016-06-29 17:15:17,895 - softwarecenter.db.update - WARNING - failed to load file /var/lib/apt-xapian-index/cataloged_times.p: unsupported pickle protocol: 3

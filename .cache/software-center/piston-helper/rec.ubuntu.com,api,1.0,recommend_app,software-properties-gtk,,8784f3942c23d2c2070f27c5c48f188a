@@ -1,0 +1,229 @@
+status: 200
+content-length: 5352
+via: 1.1 papeda.canonical.com:3128 (squid/2.7.STABLE7)
+content-location: https://rec.ubuntu.com/api/1.0/recommend_app/software-properties-gtk/
+x-cache: MISS from papeda.canonical.com
+x-cache-lookup: HIT from papeda.canonical.com:3128
+expires: Sat, 09 Apr 2016 21:25:38 GMT
+server: Apache
+last-modified: Sat, 09 Apr 2016 21:20:38 GMT
+etag: "01e333cc0d37f16d66bc5a786d087d2b"
+strict-transport-security: max-age=2592000
+cache-control: max-age=300
+date: Sat, 09 Apr 2016 21:20:38 GMT
+content-type: application/json; charset=utf-8
+
+{
+    "rid": "fc8c27788cc6efdbf15bf242472eb9ca", 
+    "data": [
+        {
+            "package_name": "software-center", 
+            "similarity": 1396.1753
+        }, 
+        {
+            "package_name": "update-manager", 
+            "similarity": 351.0052
+        }, 
+        {
+            "package_name": "yelp", 
+            "similarity": 211.0485
+        }, 
+        {
+            "package_name": "file-roller", 
+            "similarity": 198.2647
+        }, 
+        {
+            "package_name": "network-manager-gnome", 
+            "similarity": 184.1298
+        }, 
+        {
+            "package_name": "system-config-printer-gnome", 
+            "similarity": 155.6717
+        }, 
+        {
+            "package_name": "gcalctool", 
+            "similarity": 153.0057
+        }, 
+        {
+            "package_name": "gucharmap", 
+            "similarity": 128.5621
+        }, 
+        {
+            "package_name": "language-selector-gnome", 
+            "similarity": 125.403
+        }, 
+        {
+            "package_name": "xterm", 
+            "similarity": 123.2172
+        }, 
+        {
+            "package_name": "ibus", 
+            "similarity": 100.569
+        }, 
+        {
+            "package_name": "evince", 
+            "similarity": 81.3202
+        }, 
+        {
+            "package_name": "simple-scan", 
+            "similarity": 56.2471
+        }, 
+        {
+            "package_name": "xul-ext-ubufox", 
+            "similarity": 44.0339
+        }, 
+        {
+            "package_name": "usb-creator-gtk", 
+            "similarity": 35.6522
+        }, 
+        {
+            "package_name": "gedit", 
+            "similarity": 33.4299
+        }, 
+        {
+            "package_name": "apturl", 
+            "similarity": 31.2889
+        }, 
+        {
+            "package_name": "libreoffice-writer", 
+            "similarity": 31.1137
+        }, 
+        {
+            "package_name": "compiz-core", 
+            "similarity": 29.0848
+        }, 
+        {
+            "package_name": "gnome-disk-utility", 
+            "similarity": 28.7765
+        }, 
+        {
+            "package_name": "libreoffice-draw", 
+            "similarity": 28.5212
+        }, 
+        {
+            "package_name": "libreoffice-math", 
+            "similarity": 28.441
+        }, 
+        {
+            "package_name": "libreoffice-calc", 
+            "similarity": 27.9281
+        }, 
+        {
+            "package_name": "firefox", 
+            "similarity": 27.4209
+        }, 
+        {
+            "package_name": "onboard", 
+            "similarity": 27.3517
+        }, 
+        {
+            "package_name": "brasero", 
+            "similarity": 27.0306
+        }, 
+        {
+            "package_name": "libreoffice-impress", 
+            "similarity": 26.7943
+        }, 
+        {
+            "package_name": "gnome-power-manager", 
+            "similarity": 26.5118
+        }, 
+        {
+            "package_name": "gnome-media", 
+            "similarity": 26.0457
+        }, 
+        {
+            "package_name": "gnome-terminal", 
+            "similarity": 25.9829
+        }, 
+        {
+            "package_name": "seahorse", 
+            "similarity": 25.2769
+        }, 
+        {
+            "package_name": "gnome-font-viewer", 
+            "similarity": 24.9636
+        }, 
+        {
+            "package_name": "eog", 
+            "similarity": 23.2536
+        }, 
+        {
+            "package_name": "shotwell", 
+            "similarity": 23.1198
+        }, 
+        {
+            "package_name": "gnome-bluetooth", 
+            "similarity": 22.0073
+        }, 
+        {
+            "package_name": "gnome-user-share", 
+            "similarity": 21.0615
+        }, 
+        {
+            "package_name": "transmission-gtk", 
+            "similarity": 20.8582
+        }, 
+        {
+            "package_name": "xdiagnose", 
+            "similarity": 20.3922
+        }, 
+        {
+            "package_name": "vino", 
+            "similarity": 18.9109
+        }, 
+        {
+            "package_name": "checkbox-qt", 
+            "similarity": 18.7947
+        }, 
+        {
+            "package_name": "deja-dup", 
+            "similarity": 18.2174
+        }, 
+        {
+            "package_name": "gnome-sudoku", 
+            "similarity": 17.2632
+        }, 
+        {
+            "package_name": "totem", 
+            "similarity": 16.4091
+        }, 
+        {
+            "package_name": "gnomine", 
+            "similarity": 16.1947
+        }, 
+        {
+            "package_name": "thunderbird", 
+            "similarity": 14.5908
+        }, 
+        {
+            "package_name": "aisleriot", 
+            "similarity": 14.0595
+        }, 
+        {
+            "package_name": "gnome-orca", 
+            "similarity": 13.9836
+        }, 
+        {
+            "package_name": "remmina-common", 
+            "similarity": 13.7678
+        }, 
+        {
+            "package_name": "landscape-client-ui-install", 
+            "similarity": 12.6643
+        }, 
+        {
+            "package_name": "rhythmbox", 
+            "similarity": 12.0062
+        }, 
+        {
+            "rating": 3.0, 
+            "package_name": "nautilus-dropbox"
+        }, 
+        {
+            "rating": 3.0, 
+            "package_name": "p7zip-full"
+        }
+    ], 
+    "app": "software-properties-gtk"
+}

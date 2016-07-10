@@ -1,0 +1,25 @@
+# Automatically added by git-annex, do not edit.
+[Desktop Entry]
+Type=Service
+ServiceTypes=all/allfiles
+MimeType=all/all;
+Actions=GitAnnexget;GitAnnexdrop;GitAnnexundo
+X-KDE-Priority=TopLevel
+X-KDE-Submenu=Git-Annex
+X-KDE-Icon=git-annex
+X-KDE-ServiceTypes=KonqPopupMenu/Plugin
+
+[Desktop Action GitAnnexget]
+Name=get
+Icon=git-annex
+Exec=sh -c 'cd "$(dirname "$1")" && git-annex get --notify-start --notify-finish -- "$1"' false %f
+
+[Desktop Action GitAnnexdrop]
+Name=drop
+Icon=git-annex
+Exec=sh -c 'cd "$(dirname "$1")" && git-annex drop --notify-start --notify-finish -- "$1"' false %f
+
+[Desktop Action GitAnnexundo]
+Name=undo
+Icon=git-annex
+Exec=sh -c 'cd "$(dirname "$1")" && git-annex undo --notify-start --notify-finish -- "$1"' false %f

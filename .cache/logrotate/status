@@ -1,0 +1,25 @@
+logrotate state -- version 2
+"/home/einstein/.cache/upstart/update-notifier-release.log" 2016-7-4-9:27:0
+"/home/einstein/.cache/upstart/unity-settings-daemon.log" 2016-7-4-9:27:0
+"/home/einstein/.cache/upstart/unity-panel-service.log" 2016-7-4-9:27:0
+"/home/einstein/.cache/upstart/unity-panel-service-lockscreen.log" 2016-7-3-8:43:23
+"/home/einstein/.cache/upstart/ssh-agent.log" 2016-7-4-9:27:0
+"/home/einstein/.cache/upstart/indicator-keyboard.log" 2016-4-13-12:37:31
+"/home/einstein/.cache/upstart/upstart-event-bridge.log" 2016-7-4-9:27:0
+"/home/einstein/.cache/upstart/update-notifier-crash-_var_crash__usr_bin_nautilus.1000.crash.log" 2016-7-2-9:55:52
+"/home/einstein/.cache/upstart/indicator-power.log" 2016-4-19-18:39:3
+"/home/einstein/.cache/upstart/at-spi2-registryd.log" 2016-7-4-9:27:0
+"/home/einstein/.cache/upstart/gpg-agent.log" 2016-7-4-9:27:0
+"/home/einstein/.cache/upstart/unity7.log" 2016-7-4-9:27:0
+"/home/einstein/.cache/upstart/indicator-application.log" 2016-4-9-12:1:19
+"/home/einstein/.cache/upstart/indicator-sound.log" 2016-7-4-9:27:0
+"/home/einstein/.cache/upstart/window-stack-bridge.log" 2016-7-4-9:27:0
+"/home/einstein/.cache/upstart/indicator-printers.log" 2016-7-4-7:35:2
+"/home/einstein/.cache/upstart/bamfdaemon.log" 2016-7-4-9:27:0
+"/home/einstein/.cache/upstart/indicator-session.log" 2016-7-4-7:35:2
+"/home/einstein/.cache/upstart/dbus.log" 2016-7-4-9:27:0
+"/home/einstein/.cache/upstart/hud.log" 2016-7-4-9:27:0
+"/home/einstein/.cache/upstart/update-notifier-crash-_var_crash__usr_lib_chromium-browser_chromium-browser.1000.crash.log" 2016-6-25-13:29:12
+"/home/einstein/.cache/upstart/gnome-keyring-ssh.log" 2016-7-4-9:27:0
+"/home/einstein/.cache/upstart/indicator-bluetooth.log" 2016-7-4-7:35:2
+"/home/einstein/.cache/upstart/update-notifier-crash-_var_crash__usr_bin_compiz.1000.crash.log" 2016-7-4-9:27:0

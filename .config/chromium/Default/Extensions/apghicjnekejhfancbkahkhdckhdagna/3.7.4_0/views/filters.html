@@ -1,0 +1,179 @@
+<div id="filter-view">
+  <h1 class="orange">Filters</h1>
+  <div class="ngdialog-inner-content">
+  <p>
+    Click filters below to apply, or by typing in the search box.
+  </p>
+  <p>
+    Filters are combined using 'and' logic, for example "is:arc light:>300" will return all arc items with over 300 light.
+  </p>
+  <table>
+    <tr>
+      <td>Filter</td>
+      <td>Description</td>
+    </tr>
+    <tr>
+      <td>
+        <span>item name</span>
+      </td>
+      <td>Shows items where their name has a partial match to the filter text.</td>
+    </tr>
+    <tr>
+      <td>
+        <span>is:arc</span>
+        <span>is:solar</span>
+        <span>is:void</span>
+        <span>is:kinetic</span>
+      </td>
+      <td>Shows items based on their damage type.</td>
+    </tr>
+    <tr>
+      <td>
+        <span>light:value</span>
+        <span>light:&gt;=value</span>
+        <span>light:&gt;value</span>
+        <span>light:&lt;value</span>
+        <span>light:&lt;=value</span>
+      </td>
+      <td>Shows items based on their light level (Attack for Weapons; Defense for Armor).</td>
+    </tr>
+    <tr>
+      <td>
+        <span>is:class</span>
+        <span>is:primary</span>
+        <span>is:special</span>
+        <span>is:heavy</span>
+      </td>
+      <td>Shows items based on their weapon classes.</td>
+    </tr>
+    <tr>
+      <td>
+        <span>is:helmet</span>
+        <span>is:gauntlets</span>
+        <span>is:chest</span>
+        <span>is:leg</span>
+        <span>is:classitem</span>
+      </td>
+      <td>Shows armors based on their category.</td>
+    </tr>
+    <tr>
+      <td>
+        <span>is:common</span>
+        <span>is:uncommon</span>
+        <span>is:rare</span>
+        <span>is:legendary</span>
+        <span>is:exotic</span>
+      </td>
+      <td>Shows items based on their rarity tier.</td>
+    </tr>
+    <tr>
+      <td>
+        <span>is:intellect</span>
+        <span>is:discipline</span>
+        <span>is:strength</span>
+      </td>
+      <td>Shows armor that has points in the named stat.</td>
+    </tr>
+    <tr>
+      <td>
+        <span>is:infusable</span>
+        <span>is:infuse</span>
+      </td>
+      <td>Shows items that can be infused.</td>
+    </tr>
+    <tr>
+      <td>
+        <span>is:ascended</span>
+        <span>is:unascended</span>
+      </td>
+      <td>Shows items that have an ascend node and if they have been ascended or not.</td>
+    </tr>
+    <tr>
+      <td>
+        <span>is:reforgeable</span>
+        <span>is:reforge</span>
+        <span>is:rerollable</span>
+        <span>is:reroll</span>
+      </td>
+      <td>Shows items that can be reforged at the Gunsmith.</td>
+    </tr>
+    <tr>
+      <td>
+        <span>is:complete</span>
+        <span>is:incomplete</span>
+        <span>is:xpincomplete, is:needsxp</span>
+        <span>is:xpcomplete</span>
+        <span>is:upgraded</span>
+      </td>
+      <td>Shows items at various states of leveling:
+        <ul>
+          <li>Complete shows items that are totally complete - every upgrade unlocked.</li>
+          <li>Incomplete shows items that are not complete - there's still at least one upgrade to unlock.</li>
+          <li>xpincomplete/needsxp shows items that can still have XP put into them.</li>
+          <li>xpcomplete shows items that cannot have XP put into them (whether or not their upgrades have been unlocked).</li>
+          <li>Upgraded shows items that have enough XP to unlock all their nodes, but not all the nodes have been unlocked.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <span>is:titan</span>
+        <span>is:hunter</span>
+        <span>is:warlock</span>
+      </td>
+      <td>Shows items based on their class affinty.</td>
+    </tr>
+    <tr>
+      <td>
+        <span>is:dupe</span>
+        <span>is:duplicate</span>
+      </td>
+      <td>Shows duplicate items</td>
+    </tr>
+    <tr>
+      <td>
+        <span>is:locked</span>
+        <span>is:unlocked</span>
+      </td>
+      <td>Shows items based on their locked status.</td>
+    </tr>
+    <tr>
+      <td>
+        <span>is:stackable</span>
+      </td>
+      <td>Shows items that can stack (ammo synths, strange coin, etc)</td>
+    </tr>
+    <tr>
+      <td>
+        <span>is:pulserifle</span>
+        <span>is:scoutrifle</span>
+        <span>is:handcannon</span>
+        <span>is:autorifle</span>
+        <span>is:sniperrifle</span>
+        <span>is:shotgun</span>
+        <span>is:fusionrifle</span>
+        <span>is:sidearm</span>
+        <span>is:rocketlauncher</span>
+        <span>is:machinegun</span>
+        <span>is:sword</span>
+        <span>is:primaryweaponengram</span>
+        <span>is:specialweaponengram</span>
+        <span>is:heavyweaponengram</span>
+      </td>
+      <td>Shows weapons based on their weapon type.</td>
+    </tr>
+    <tr>
+      <td>
+        <span>is:engram</span>
+      </td>
+      <td>Shows engrams.</td>
+    </tr>
+    <tr>
+      <td>
+        <span>is:year1</span>
+        <span>is:year2</span>
+      </td>
+      <td>Shows items from which year of Destiny they appeared in.</td>
+    </tr>
+  </table>
+  </div>

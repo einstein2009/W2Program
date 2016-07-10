@@ -1,0 +1,44 @@
+#include <iostream>
+
+using namespace std;
+
+int main ()
+{
+int calBD1, calBD2, calBD3, calBD4, calBD5, calBD6, calBD7;
+int calBIAW;
+
+cout<<"Enter calories burned day 1: ";
+cin>>calBD1;
+cout<<endl;
+
+cout<<"Enter calories burned day 2: ";
+cin>>calBD2;
+cout<<endl;
+
+cout<<"Enter calories burned day 3: ";
+cin>>calBD3;
+cout<<endl;
+
+cout<<"Enter calories burned day 4: ";
+cin>>calBD4;
+cout<<endl;
+
+cout<<"Enter calories burned day 5: ";
+cin>>calBD5;
+cout<<endl;
+
+cout<<"Enter calories burned day 6: ";
+cin>>calBD6;
+cout<<endl;
+
+cout<<"Enter calories burned day 7: ";
+cin>>calBD7;
+cout<<endl;
+
+calBIAW=calBD1+calBD2+calBD3+calBD4+calBD5+calBD6+calBD7;
+
+cout<<"Average number of calories burned each day: "
+    <<calBIAW/7<<endl;
+
+return 0;
+}

@@ -1,0 +1,21 @@
+status: 200
+content-length: 107
+via: 1.1 papeda.canonical.com:3128 (squid/2.7.STABLE7)
+content-location: https://rec.ubuntu.com/api/1.0/recommend_app/pepperflashplugin-nonfree/
+x-cache: HIT from papeda.canonical.com
+age: 289
+expires: Sat, 09 Apr 2016 21:19:02 GMT
+server: Apache
+last-modified: Sat, 09 Apr 2016 21:14:02 GMT
+etag: "f1547578d7431ddfcefa867f9cf57846"
+strict-transport-security: max-age=2592000
+cache-control: max-age=300
+date: Sat, 09 Apr 2016 21:14:02 GMT
+content-type: application/json; charset=utf-8
+x-cache-lookup: HIT from papeda.canonical.com:3128
+
+{
+    "rid": "3017aa4a89e7a1e917f9086438033cf6", 
+    "data": [], 
+    "app": "pepperflashplugin-nonfree"
+}
